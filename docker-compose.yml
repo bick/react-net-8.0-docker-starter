@@ -1,7 +1,7 @@
 services:
   api:
     build:
-      context: ./api/GivingData
+      context: ./api/StarterAPI
       dockerfile: Dockerfile
     ports:
       - "8888:8888"
