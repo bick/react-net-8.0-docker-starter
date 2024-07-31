@@ -1,4 +1,4 @@
-# .NET 8 with React, TypeScript, Redux, and Docker starter
+# .NET 8 with React, TypeScript, Redux, and Docker Starter
 Coded with ❤️ and ☕ by [Owen Bick](https://github.com/bick).
 
 ## Features
