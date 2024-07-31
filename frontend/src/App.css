@@ -1,0 +1,13 @@
+body {
+  margin: 2rem;
+}
+
+body, h1, h2, h3, h4, h5, h6  {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+input[type="search"]::-webkit-search-cancel-button,
+.MuiInputAdornment-root{
+  -webkit-appearance: none;
+  appearance: none;
+}

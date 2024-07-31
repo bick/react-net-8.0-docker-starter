@@ -1,0 +1,4 @@
+@StarterAPI_HostAddress = http://localhost:8888
+
+GET {{StarterAPI_HostAddress}}
+Accept: application/json
